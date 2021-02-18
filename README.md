@@ -34,7 +34,7 @@ Tips:
 If you are not able to install any of the above, 
 please feel free to use an online compiler for the session - 
 
-<img alt="prabhuSub" width="55px" src="https://user-images.githubusercontent.com/43825167/108306232-b9f8bd80-7179-11eb-88d5-a45a76f4f1b6.png" /> https://repl.it/
+[<img alt="prabhuSub" width="55px" src="https://user-images.githubusercontent.com/43825167/108306232-b9f8bd80-7179-11eb-88d5-a45a76f4f1b6.png" />][repl] https://repl.it/
 
 Create an account before you come to the session.
 
@@ -76,3 +76,4 @@ The topics we will be covering for the sessions are:
 [linkedin]: https://linkedin.com/in/prabhu-subramanian
 [DEV]: https://dev.to/prabhusub
 [GitHub]: https://github.com/login?return_to=%2FprabhuSub
+[repl]: https://repl.it/
