@@ -34,8 +34,7 @@ Tips:
 If you are not able to install any of the above, 
 please feel free to use an online compiler for the session - 
 
-<img alt="prabhuSub" width="45px" src="https://user-images.githubusercontent.com/43825167/108294170-56639580-7163-11eb-8245-103d71c17d27.png" /> 
-https://repl.it/
+<img alt="prabhuSub" width="55px" src="https://user-images.githubusercontent.com/43825167/108306232-b9f8bd80-7179-11eb-88d5-a45a76f4f1b6.png" /> https://repl.it/
 
 Create an account before you come to the session.
 
