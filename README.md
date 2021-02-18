@@ -69,14 +69,10 @@ The topics we will be covering for the sessions are:
 --------------------------------------------------------------------------------------
 
 ### Connect with me:
-[<img align="left" alt="prabhuSub | GitHub" width="22px" src="https://user-images.githubusercontent.com/43825167/108306520-5327d400-717a-11eb-964c-3d0a6b99f7f9.png" />][GitHub]
-[<img align="left" alt="prabhuSub | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="prabhuSub | DEV" width="22px" src="https://user-images.githubusercontent.com/43825167/94376726-67dfce80-00ea-11eb-84c4-4a0c1496cec9.png" />][DEV]
-[<img align="left" alt="prabhuSub | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="prabhuSub | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="prabhuSub | GitHub" width="40px" src="https://user-images.githubusercontent.com/43825167/108306520-5327d400-717a-11eb-964c-3d0a6b99f7f9.png" />][GitHub]
+[<img align="left" alt="prabhuSub | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="prabhuSub | DEV" width="40px" src="https://user-images.githubusercontent.com/43825167/94376726-67dfce80-00ea-11eb-84c4-4a0c1496cec9.png" />][DEV]
 
-[twitter]: https://twitter.com/prabhus165
-[instagram]: https://instagram.com/prabhs_silver
 [linkedin]: https://linkedin.com/in/prabhu-subramanian
 [DEV]: https://dev.to/prabhusub
 [GitHub]: https://github.com/login?return_to=%2FprabhuSub
