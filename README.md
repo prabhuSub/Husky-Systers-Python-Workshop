@@ -42,7 +42,7 @@ Create an account before you come to the session.
 ## Topics to be covered:
 The topics we will be covering for the sessions are:
 
-1. Installations (**Will be skipped**)
+1. Installations (***Will be skipped***)
     - MAC - Python Install
     - WINDOWS - Python Install
 2. How to run a Python code
