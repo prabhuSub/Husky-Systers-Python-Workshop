@@ -36,6 +36,7 @@ please feel free to use an online compiler for the session -
 Create an account before you come to the session.
 
 
+## Topics to be covered:
 The topics we will be covering for the sessions are:
 
 - Installations
@@ -60,3 +61,4 @@ The topics we will be covering for the sessions are:
 - Errors Handling in Python
 
 
+#### See you at the workshop!!! 🙋🏻‍♂️
