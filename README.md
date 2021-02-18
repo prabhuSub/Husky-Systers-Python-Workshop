@@ -66,6 +66,3 @@ The topics we will be covering for the sessions are:
 
 
 **See you at the workshop!!!** <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108305706-984b0680-7178-11eb-8a7a-01653424b278.png" />
-
-
-7. Parameters and Arguments
