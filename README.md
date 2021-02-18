@@ -2,6 +2,9 @@
 
 ## Hello All! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
+![GitHub](https://img.shields.io/github/license/prabhuSub/Husky-Systers-Python-Workshop)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py)
+
 As for the planned workshop, this repositiory will be our primary point of consolidated documents, scripts, examples and installation guidlines.
 
 List of tools to be installed for the workshops:
