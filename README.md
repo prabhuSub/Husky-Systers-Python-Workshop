@@ -44,17 +44,17 @@ Create an account before you come to the session.
 The topics we will be covering for the sessions are:
 
 1. Installations
-  - MAC - Python Install
-  - WINDOWS - Python Install
+    - MAC - Python Install
+    - WINDOWS - Python Install
 2. How to run a Python code
 3. Variables
 4. Data types
-  - Strings
-  - Lists
-  - Booleans
-  - Dictionaries
-  - Tuples
-  - Sets
+    - Strings
+    - Lists
+    - Booleans
+    - Dictionaries
+    - Tuples
+    - Sets
 5. For Loops
 6. Functions
 7. Parameters and Arguments
@@ -65,4 +65,7 @@ The topics we will be covering for the sessions are:
 12. Errors Handling in Python
 
 
-### See you at the workshop!!! 🙋🏻‍♂️
+**See you at the workshop!!!** <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108305706-984b0680-7178-11eb-8a7a-01653424b278.png" />
+
+
+7. Parameters and Arguments
