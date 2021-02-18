@@ -66,6 +66,7 @@ The topics we will be covering for the sessions are:
 
 **See you at the workshop!!!** <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108305706-984b0680-7178-11eb-8a7a-01653424b278.png" />
 
+--------------------------------------------------------------------------------------
 
 ### Connect with me:
 [<img align="left" alt="prabhuSub | GitHub" width="22px" src="https://user-images.githubusercontent.com/43825167/108306520-5327d400-717a-11eb-964c-3d0a6b99f7f9.png" />][GitHub]
