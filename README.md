@@ -8,9 +8,9 @@
 As for the planned workshop, this repositiory will be our primary point of consolidated documents, scripts, examples and installation guidlines.
 
 List of tools to be installed for the workshops:
->1. Python3.x <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108293934-dccba780-7162-11eb-9a52-599cbca3e86e.png" />
->2. Microsoft Visual Studio <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108293074-8d857700-7162-11eb-8498-db6b5df49530.png" />
->3. Anaconda(for Juypter Notebook)<img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108293985-f371fe80-7162-11eb-9c98-cefc8e91e9f4.png" />
+1. Python3.x <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108293934-dccba780-7162-11eb-9a52-599cbca3e86e.png" />
+2. Microsoft Visual Studio <img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108293074-8d857700-7162-11eb-8498-db6b5df49530.png" />
+3. Anaconda(for Juypter Notebook)<img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108293985-f371fe80-7162-11eb-9c98-cefc8e91e9f4.png" />
 
 ### Python3.X - Installation
 
@@ -34,7 +34,8 @@ Tips:
 If you are not able to install any of the above, 
 please feel free to use an online compiler for the session - 
 
-<img alt="prabhuSub | Twitter" width="22px" src="https://user-images.githubusercontent.com/43825167/108294170-56639580-7163-11eb-8245-103d71c17d27.png" /> https://repl.it/
+<img alt="prabhuSub" width="45px" src="https://user-images.githubusercontent.com/43825167/108294170-56639580-7163-11eb-8245-103d71c17d27.png" /> 
+https://repl.it/
 
 Create an account before you come to the session.
 
@@ -42,26 +43,26 @@ Create an account before you come to the session.
 ## Topics to be covered:
 The topics we will be covering for the sessions are:
 
-- Installations
-  - MAC - Python Install
-  - WINDOWS - Python Install
-- How to run a Python code
-- Variables
-- Data types
+1. Installations
+ . - MAC - Python Install
+ . - WINDOWS - Python Install
+2. How to run a Python code
+3. Variables
+4. Data types
   - Strings
   - Lists
   - Booleans
   - Dictionaries
   - Tuples
   - Sets
-- For Loops
-- Functions
-- Parameters and Arguments
-- Docstrings
-- Clean Code
-- Object Oriented Programming – OOPs
-- Lambda Expressions
-- Errors Handling in Python
+5. For Loops
+6. Functions
+7. Parameters and Arguments
+8. Docstrings
+9. Clean Code
+10. Object Oriented Programming – OOPs
+11. Lambda Expressions
+12. Errors Handling in Python
 
 
-#### See you at the workshop!!! 🙋🏻‍♂️
+### See you at the workshop!!! 🙋🏻‍♂️
